@@ -5,7 +5,7 @@ from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 # Load dataset
-df = pd.read_csv("D:\Fertilizer\Fertilizer_Prediction.csv")
+df = pd.read_csv("C:/Users/This PC/Desktop/FertilizerProject/Fertilizer_Prediction.csv")
 
 # Encode categorical columns
 label_encoders = {}
